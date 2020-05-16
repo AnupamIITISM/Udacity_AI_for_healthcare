@@ -1,0 +1,1 @@
+Basics of several typs of Medical Imaging such as X-ray, CT, MRI, Fundal Imaging (Eye), digital pathology provided
