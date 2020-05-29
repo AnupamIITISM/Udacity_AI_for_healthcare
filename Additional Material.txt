@@ -1,0 +1,16 @@
+Lesson 2
+
+https://www.healthnewsreview.org/toolkit/tips-for-understanding-studies/understanding-medical-tests-sensitivity-specificity-and-positive-predictive-value/
+
+https://radiopaedia.org/articles/picture-archiving-and-communication-system?lang=us
+
+https://pubs.rsna.org/journal/radiology
+
+Lesson 3
+
+About DICOM  https://www.dicomstandard.org/
+
+PyDIcom Github REpo 	https://pydicom.github.io/
+
+Digital Pathology REview	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6289005/
+
